@@ -59,9 +59,3 @@
   </a> 
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doguyegin&show_icons=true&locale=en&layout=compact" alt="doguyegin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doguyegin&show_icons=true&locale=en" alt="doguyegin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doguyegin&" alt="doguyegin" /></p>
