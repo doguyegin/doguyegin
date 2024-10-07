@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doguyegin&label=Profile%20views&color=0e75b6&style=flat" alt="doguyegin" /> </p>
 
-•⁠  ⁠💬 Ask me about *React, React Native, NodeJs, Flutter*
+•⁠  ⁠💬 Ask me about React, NodeJs, Python.
+•⁠  ⁠👨🏻‍💼 I am currently working on Decentrahubs.
+
 
 •⁠  ⁠📫 How to reach me *dogucanyegin81@gmail.com*
 
