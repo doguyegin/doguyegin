@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Doğu YEĞİN</h1>
+<h1 align="center">Hi 👋,  I'm Doğu YEĞİN</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 <p align="center"> <img align="right"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doguyegin&label=Profile%20views&color=0e75b6&style=flat" alt="doguyegin" /> </p>
 
 •⁠  ⁠💬 Ask me about React, NodeJs, Python.
+
 •⁠  ⁠👨🏻‍💼 I am currently working on Decentrahubs.
 
 
